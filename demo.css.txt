@@ -7,3 +7,7 @@
 a{
 	text-decoration: none;//clone远程分支后，对代码进行修改提交，属于是另一个开发人员的分支
 }
+
+span{
+	displau:block;//区别于上面那个人，另一个人先拉去远程代码后，再进行添加 提交
+}
