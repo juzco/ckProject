@@ -1,5 +1,5 @@
 *{
 	margin:0;
 	padding:0;
-	box-sizing: border-box;
+	box-sizing: border-box;//不要在网页中直接修改远程仓库的内容，所以这里用注释的方式添加内容
 }
