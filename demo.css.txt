@@ -3,3 +3,7 @@
 	padding:0;
 	box-sizing: border-box;//不要在网页中直接修改远程仓库的内容，所以这里用注释的方式添加内容
 }
+
+a{
+	text-decoration: none;//clone远程分支后，对代码进行修改提交，属于是另一个开发人员的分支
+}
